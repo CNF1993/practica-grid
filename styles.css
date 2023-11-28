@@ -28,6 +28,11 @@
     transition: all .2s ease;
 }
 
+.box:active {
+    transform: scale(1);
+    transition: all .2s ease;
+}
+
 .box:nth-child(even) {
     background: rgba(245, 245, 245, 0.692);
 }
