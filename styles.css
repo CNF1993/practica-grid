@@ -23,7 +23,7 @@ body {
 
 .box {
     background: whitesmoke;
-    border: 1px solid lightgray;
+    border: none;
     border-radius: .2rem;
     box-shadow: inset 0 0 10px 2px rgba(100, 81, 81, 0.507);
     cursor: pointer;
