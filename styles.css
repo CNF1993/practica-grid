@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    background: rgba(104, 101, 101, 0.7)
+}
+
 .container {
     margin: 3rem auto;
     width: 80vw;
