@@ -32,11 +32,15 @@ body {
 
 .box:hover {
     border: 1px solid transparent;
-    transform: scale(1.02);
+    transform: scale(1.01);
 }
 
 .box:active {
     transform: scale(1);
+}
+
+.box:focus {
+    background: rgba(220, 20, 60, 0.9);
 }
 
 .box-1 {
